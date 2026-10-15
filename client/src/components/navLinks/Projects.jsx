@@ -9,8 +9,8 @@ const PROJECTS_DATA = [
     description:
       "A full-stack PERN application designed to streamline employee attendance management. Features secure role-based authentication (Admin vs. Employee), real-time check-in/out logging, and an administrative dashboard to view daily records and monthly history.",
     tech: ["PostgreSQL,", "Express.js, ", "React.js, ", "Node.js, ", "JWT Auth"],
-    githubLink: "https://github.com/Khaja39/Attendance-App",
-    liveLink: "https://attendance-app-seven-mu.vercel.app/",
+    githubLink: "https://github.com/anshuannela85/Anshu-Annela_Portfolio_website",
+    liveLink: "https://attendance-app-delta-sooty.vercel.app/",
     imageUrl: myImage,
   }
 ];

@@ -3,8 +3,8 @@ import myImage from "../assets/DP.jpeg";
 import Navbar from "./navBar.jsx";
 import downLoad from "../assets/download.png";
 import resume from "../assets/resume.png";
-import MyResumePDF from "../assets/Anshu_Annela.pdf";
-import MyResumePDF2 from "../assets/Anshu_Annela.pdf";
+import MyResumePDF from "../assets/AnshuAnnela.pdf";
+import MyResumePDF2 from "../assets/AnshuAnnela.pdf";
 import phone from "../assets/phone-call.png";
 import mail from "../assets/gmail.png";
 
